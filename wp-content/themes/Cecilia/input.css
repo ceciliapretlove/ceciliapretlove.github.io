@@ -1,0 +1,24 @@
+/*
+Theme Name: Cecilia
+Theme URI: https://wordpress.org/themes/twentytwenty/
+Author: Cecilia Pretlove
+Author URI: https://wordpress.org/
+Description: Hello this is my first custom theme.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: lumine
+
+*/
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.inter{
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:weight;
+    font-style: normal;
+  }
+  
